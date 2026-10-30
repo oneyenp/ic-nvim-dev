@@ -1,0 +1,14 @@
+/dist/*
+!/dist/.gitkeep
+/build/work/
+/plugins/work/
+.git-local/
+.git/
+.agents/
+.aws/
+.codex/
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
